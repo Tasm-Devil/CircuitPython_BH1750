@@ -2,7 +2,7 @@
 
 Samples ambient light level/luminance in lumens per m2 (lux).
 
-Only tested on the esp8266 micropython port.
+Only tested on adafruit circuit playground express.
 
 ```python
 from busio import I2C
