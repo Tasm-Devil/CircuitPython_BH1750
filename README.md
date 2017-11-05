@@ -1,4 +1,4 @@
-# Micropython bh1750 i2c digital light sensor driver
+# Circuitpython bh1750 i2c digital light sensor driver
 
 Samples ambient light level/luminance in lumens per m2 (lux).
 
