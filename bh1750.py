@@ -7,7 +7,7 @@ from time import sleep
 
 
 class BH1750():
-    """Micropython BH1750 ambient light sensor driver."""
+    """Circuitpython BH1750 ambient light sensor driver."""
 
     PWR_OFF = 0x00
     PWR_ON = 0x01
