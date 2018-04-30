@@ -1,6 +1,7 @@
 # Circuitpython bh1750 i2c digital light sensor driver
 
-Samples ambient light level/luminance in lumens per m2 (lux).
+This is a fork of https://github.com/PinkInk/upylib/tree/master/bh1750. 
+The module samples ambient light level/luminance in lumens per m2 (lux).
 
 Only tested on adafruit circuit playground express.
 
